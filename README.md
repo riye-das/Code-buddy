@@ -8,7 +8,8 @@
 </ul>
 <br>
 
-![image](https://user-images.githubusercontent.com/96901920/220951279-fdfbf656-c66a-4ef0-afc2-dd139ec5fd0f.png)
+![image](https://github.com/riye-das/Code-buddy/assets/126477330/50b0940b-1bc7-4868-8fa7-a13844fda564)
+
 
 Customization The chatbot's responses can be customized by modifying the data in the intents.json file. This file contains a list of potential user inputs and corresponding responses.
 
